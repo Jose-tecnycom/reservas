@@ -4,11 +4,8 @@
   "version": "1.0.0",
   "items": [
     {
-      "url": "https://github.com/Jose-tecnycom/reservas.git",
-      "menuName": {
-        "en": "Vehicle Reservations",
-        "es": "Reservas de Vehículos"
-      },
+      "url": "https://Jose-tecnycom.github.io/reservas/index.html",
+      "menuName": "Reservas de Vehículos",
       "icon": "https://cdn-icons-png.flaticon.com/512/69/69524.png"
     }
   ],
