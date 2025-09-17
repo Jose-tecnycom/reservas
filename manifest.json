@@ -6,8 +6,10 @@
     {
       "url": "https://Jose-tecnycom.github.io/reservas/index.html",
       "menuName": "Reservas de Vehículos",
-      "icon": "https://cdn-icons-png.flaticon.com/512/69/69524.png"
+      "icon": "https://cdn-icons-png.flaticon.com/512/69/69524.png",
+      "addToMenu": true
     }
   ],
   "isSigned": false
 }
+
