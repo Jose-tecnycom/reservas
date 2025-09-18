@@ -6,12 +6,12 @@
     {
       "page": "reservas",
       "url": "https://Jose-tecnycom.github.io/reservas/index.html",
-      "path": "Activity/ReservasVehiculos",
+      "path": "ActivityLink/",
       "menuName": {
         "en": "Vehicle Reservations",
         "es": "Reservas de Vehículos"
       },
-      "icon": "https://cdn-icons-png.flaticon.com/512/69/69524.png"
+      "icon": "chart"
     }
   ],
   "isSigned": false
