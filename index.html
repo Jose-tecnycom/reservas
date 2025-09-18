@@ -11,6 +11,13 @@
       width: 100%;
       overflow: hidden;
     }
+    #wrapper {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+    }
     iframe {
       border: none;
       width: 100%;
@@ -19,6 +26,8 @@
   </style>
 </head>
 <body>
-  <iframe src="https://teamup.com/ks9iot7zr949dcvzz5?lang=es&showSidepanel=1&showViewHeader=1" loading="lazy"></iframe>
+  <div id="wrapper">
+    <iframe src="https://teamup.com/ks9iot7zr949dcvzz5?lang=es&showSidepanel=1&showViewHeader=1"></iframe>
+  </div>
 </body>
 </html>
