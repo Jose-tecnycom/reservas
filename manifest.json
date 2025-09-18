@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "items": [
     {
+      "page": "reservas",
       "url": "https://Jose-tecnycom.github.io/reservas/index.html",
       "path": "Activity/ReservasVehiculos",
       "menuName": {
