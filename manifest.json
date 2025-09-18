@@ -5,7 +5,7 @@
   "items": [
     {
       "url": "https://Jose-tecnycom.github.io/reservas/index.html",
-      "path": "ActivityLink/ReservasVehiculos",
+      "path": "Activity/ReservasVehiculos",
       "menuName": {
         "en": "Vehicle Reservations",
         "es": "Reservas de Vehículos"
