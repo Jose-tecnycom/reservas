@@ -1,14 +1,17 @@
 {
-    "name": "Reservas Vehículos",
-    "supportEmail": "joseantonio@tecnycom.net",
-    "version": "1.0.0",
-    "items": [
-        {
-            "url": "https://Jose-tecnycom.github.io/reservas/index.html",
-            "path": "ActivityLink/",
-            "menuName": "Reservas de Vehículos",
-            "icon": "https://cdn-icons-png.flaticon.com/512/69/69524.png"
-        }
-    ],
-    "isSigned": false
+  "name": "Reservas Vehículos",
+  "supportEmail": "joseantonio@tecnycom.net",
+  "version": "1.0.0",
+  "items": [
+    {
+      "url": "https://Jose-tecnycom.github.io/reservas/index.html",
+      "path": "ActivityLink/ReservasVehiculos",
+      "menuName": {
+        "en": "Vehicle Reservations",
+        "es": "Reservas de Vehículos"
+      },
+      "icon": "https://cdn-icons-png.flaticon.com/512/69/69524.png"
+    }
+  ],
+  "isSigned": false
 }
